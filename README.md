@@ -435,7 +435,17 @@ begin
 end.
 ```
 
+</br>
 
+# Starfield Rotations Pixel:
+
+</br>
+
+![StarfieldSimulation_rot](https://github.com/user-attachments/assets/239e2a63-40af-437c-811b-2a010066653c)
+
+</br>
+
+![StarfieldSimulation_tumble](https://github.com/user-attachments/assets/abd2db72-095e-47d3-b6cf-2b1cc12e7629)
 
 
 
