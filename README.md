@@ -18,7 +18,14 @@ A Starfield simulation is a classic graphics effect in which small dots (stars) 
 
 </br>
 
+# How the graphics work:
+The simulation uses simple mathematical principles to represent depth and movement on a 2D screen:
 
+* Central perspective: All stars move outwards from a central vanishing point.
+* Depth parameter (z): Each star is assigned a fictitious depth. The smaller (z) becomes (the star "gets closer"), the faster its (x) and (y) coordinates move towards the edge of the screen.
+* Size change: Stars that are "farther away" are displayed as tiny pixels; "closer" stars are drawn larger to enhance the parallax effect.
+* Scrolling pixels across multiple levels.
+* Scrolling pixels in a 2D space from left to right.
 
 
 
