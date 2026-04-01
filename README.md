@@ -30,7 +30,7 @@ The simulation uses simple mathematical principles to represent depth and moveme
 
 </br>
 
-# Create Real 3D-Starfield Animation:
+# Create Real 3D-Starfield Animation (Complete Program):
 ```pascal
 program Project1;
 {$R-}
