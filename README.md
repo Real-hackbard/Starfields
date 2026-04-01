@@ -26,6 +26,7 @@ The simulation uses simple mathematical principles to represent depth and moveme
 * Size change: Stars that are "farther away" are displayed as tiny pixels; "closer" stars are drawn larger to enhance the parallax effect.
 * Scrolling pixels across multiple levels.
 * Scrolling pixels in a 2D space from left to right.
+* Scrolling of [canvas](https://en.wikipedia.org/wiki/Canvas_X) graphics instead of pixels in 3D.
 
 
 
