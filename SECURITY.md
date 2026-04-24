@@ -12,6 +12,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Real Starfield |
 | 1.0.x   | :white_check_mark: Right Plattform Scroller |
 | 1.0.x   | :white_check_mark: Star Wars |
+| 1.0.x   | :white_check_mark: Random Starfiled |
 
 ## Reporting a Vulnerability
 
